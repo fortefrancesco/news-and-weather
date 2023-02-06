@@ -1,8 +1,8 @@
 {
-  "name": "UniMeteo",
+  "name": "NEWS and WEATHER",
   "version": "1.0.0",
-  "description": "UniMeteo, il tuo servizio metereologico online a portata di click",
-  "author": "Omar Daniel",
+  "description": "NEWS and WEATHER, il tuo servizio metereologico online a portata di click",
+  "author": "Francesco Forte, Christina Spanu",
   "scripts": {
     "start": "node app",
     "dev": "nodemon app"
